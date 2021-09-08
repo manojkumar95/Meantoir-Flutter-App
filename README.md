@@ -13,7 +13,7 @@ Tools: Flutter, Express, Node.js, Mongodb, Firebase.
 
 ## Usage for backend server
 
-```$ git clone https://github.com/manojkumar95/expense-tracker-api.git
+```$ git clone https://github.com/manojkumar95/Meantoir-Flutter-App.git
 
 $ cd Meantoir-Flutter-App/backend-node-api
 
@@ -22,8 +22,6 @@ $ yarn install
 $ yarn start
 
 ## Usage for frontend flutter server
-
-```$ git clone https://github.com/manojkumar95/expense-tracker-api.git
 
 $ cd Meantoir-Flutter-App/frontend-flutter
 
