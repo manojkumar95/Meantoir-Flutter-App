@@ -11,10 +11,11 @@ A mobile application for connecting mentors to mentees. The aim of the applicati
 
 Tools: Flutter, Express, Node.js, Mongodb, Firebase.
 
-## Usage for backend server
 
 ```
 $ git clone https://github.com/manojkumar95/Meantoir-Flutter-App.git
+
+## Usage for backend server
 
 $ cd Meantoir-Flutter-App/backend-node-api
 
