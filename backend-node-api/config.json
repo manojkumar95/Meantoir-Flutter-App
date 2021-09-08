@@ -1,0 +1,16 @@
+﻿{
+    "connectionString": "mongodb+srv://admin:admin@cluster0.uuaw2.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "secret": "Flutter",
+    "emailFrom": "clare.runolfsdottir@ethereal.email",
+    "smtpOptions": {
+        "service": "gmail",
+        "host": "smtp.gmail.com",
+        "port": 465,
+        "secure": true,
+        "auth": {
+            "user": "manojkumaryyy@gmail.com",
+            "pass": "manojmaxX@1231$"
+        }
+    }
+}
+
